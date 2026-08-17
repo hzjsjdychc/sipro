@@ -1,0 +1,738 @@
+{
+ "role": "finance",
+ "base": "https://sipro-form-fix.preview.emergentagent.com",
+ "dialogs": [
+  {
+   "page": "beranda",
+   "path": "/",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Verifikasi & posting penerimaan kas",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/beranda_1_ajukan-hasil.png"
+  },
+  {
+   "page": "beranda",
+   "path": "/",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Bayar termin subkon setelah QC lolos",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/beranda_2_ajukan-hasil.png"
+  },
+  {
+   "page": "beranda",
+   "path": "/",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Rilis retensi yang jatuh tempo · 2026-08",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/beranda_3_ajukan-hasil.png"
+  },
+  {
+   "page": "beranda",
+   "path": "/",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Posting jurnal penyusutan bulanan · 2026-08",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/beranda_4_ajukan-hasil.png"
+  },
+  {
+   "page": "beranda",
+   "path": "/",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Siapkan & lapor pajak bulanan · 2026-08",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/beranda_5_ajukan-hasil.png"
+  },
+  {
+   "page": "tugas",
+   "path": "/tasks",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Verifikasi & posting penerimaan kas",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/tugas_1_ajukan-hasil.png"
+  },
+  {
+   "page": "tugas",
+   "path": "/tasks",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Bayar termin subkon setelah QC lolos",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/tugas_2_ajukan-hasil.png"
+  },
+  {
+   "page": "tugas",
+   "path": "/tasks",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Rilis retensi yang jatuh tempo · 2026-08",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/tugas_3_ajukan-hasil.png"
+  },
+  {
+   "page": "tugas",
+   "path": "/tasks",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Posting jurnal penyusutan bulanan · 2026-08",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/tugas_4_ajukan-hasil.png"
+  },
+  {
+   "page": "tugas",
+   "path": "/tasks",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Siapkan & lapor pajak bulanan · 2026-08",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/tugas_5_ajukan-hasil.png"
+  },
+  {
+   "page": "lead",
+   "path": "/leads",
+   "trigger": "tambah lead",
+   "testid": "lead-add-button",
+   "title": "Tambah Lead",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 201,
+    "bottom": 699,
+    "h": 498,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/lead_1_tambah-lead.png"
+  },
+  {
+   "page": "customer",
+   "path": "/customers",
+   "trigger": "tambah customer",
+   "testid": "customer-add-button",
+   "title": "Tambah Customer",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 68,
+    "bottom": 833,
+    "h": 765,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/customer_1_tambah-customer.png"
+  },
+  {
+   "page": "dokumen",
+   "path": "/documents",
+   "trigger": "buat spr",
+   "testid": "",
+   "title": "Buat SPR",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 326,
+    "bottom": 574,
+    "h": 248,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/dokumen_1_buat-spr.png"
+  },
+  {
+   "page": "pengadaan",
+   "path": "/procurement",
+   "trigger": "buat po",
+   "testid": "po-add-button",
+   "title": "Buat Purchase Order",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 184,
+    "bottom": 716,
+    "h": 532,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/pengadaan_1_buat-po.png"
+  },
+  {
+   "page": "kasbon",
+   "path": "/petty-cash",
+   "trigger": "ajukan kas bon",
+   "testid": "petty-cash-request-button",
+   "title": "Ajukan Kas Bon",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 197,
+    "bottom": 703,
+    "h": 506,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/kasbon_1_ajukan-kas-bon.png"
+  },
+  {
+   "page": "aset",
+   "path": "/fixed-assets",
+   "trigger": "tambah aset",
+   "testid": "asset-add-button",
+   "title": "Tambah Aset Tetap",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 20,
+    "bottom": 880,
+    "h": 860,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/aset_1_tambah-aset.png"
+  },
+  {
+   "page": "marketing-fee",
+   "path": "/marketing-fee",
+   "trigger": "ajukan fee",
+   "testid": "mfee-submit-button",
+   "title": "Ajukan Marketing Fee",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 105,
+    "bottom": 796,
+    "h": 691,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/marketing-fee_1_ajukan-fee.png"
+  },
+  {
+   "page": "marketing-fee",
+   "path": "/marketing-fee",
+   "trigger": "bayar",
+   "testid": "mfee-pay-button",
+   "title": "Bayar Marketing Fee MF/2026/0001",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 287,
+    "bottom": 613,
+    "h": 326,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/marketing-fee_2_bayar.png"
+  },
+  {
+   "page": "admin-users",
+   "path": "/admin/users",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Verifikasi & posting penerimaan kas",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/admin-users_1_ajukan-hasil.png"
+  },
+  {
+   "page": "admin-users",
+   "path": "/admin/users",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Bayar termin subkon setelah QC lolos",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/admin-users_2_ajukan-hasil.png"
+  },
+  {
+   "page": "admin-users",
+   "path": "/admin/users",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Rilis retensi yang jatuh tempo · 2026-08",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/admin-users_3_ajukan-hasil.png"
+  },
+  {
+   "page": "admin-users",
+   "path": "/admin/users",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Posting jurnal penyusutan bulanan · 2026-08",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/admin-users_4_ajukan-hasil.png"
+  },
+  {
+   "page": "admin-users",
+   "path": "/admin/users",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Siapkan & lapor pajak bulanan · 2026-08",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/admin-users_5_ajukan-hasil.png"
+  },
+  {
+   "page": "admin-permissions",
+   "path": "/admin/permissions",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Verifikasi & posting penerimaan kas",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/admin-permissions_1_ajukan-hasil.png"
+  },
+  {
+   "page": "admin-permissions",
+   "path": "/admin/permissions",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Bayar termin subkon setelah QC lolos",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/admin-permissions_2_ajukan-hasil.png"
+  },
+  {
+   "page": "admin-permissions",
+   "path": "/admin/permissions",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Rilis retensi yang jatuh tempo · 2026-08",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/admin-permissions_3_ajukan-hasil.png"
+  },
+  {
+   "page": "admin-permissions",
+   "path": "/admin/permissions",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Posting jurnal penyusutan bulanan · 2026-08",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/admin-permissions_4_ajukan-hasil.png"
+  },
+  {
+   "page": "admin-permissions",
+   "path": "/admin/permissions",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Siapkan & lapor pajak bulanan · 2026-08",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/admin-permissions_5_ajukan-hasil.png"
+  },
+  {
+   "page": "admin-orgs",
+   "path": "/admin/organizations",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Verifikasi & posting penerimaan kas",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/admin-orgs_1_ajukan-hasil.png"
+  },
+  {
+   "page": "admin-orgs",
+   "path": "/admin/organizations",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Bayar termin subkon setelah QC lolos",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/admin-orgs_2_ajukan-hasil.png"
+  },
+  {
+   "page": "admin-orgs",
+   "path": "/admin/organizations",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Rilis retensi yang jatuh tempo · 2026-08",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/admin-orgs_3_ajukan-hasil.png"
+  },
+  {
+   "page": "admin-orgs",
+   "path": "/admin/organizations",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Posting jurnal penyusutan bulanan · 2026-08",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/admin-orgs_4_ajukan-hasil.png"
+  },
+  {
+   "page": "admin-orgs",
+   "path": "/admin/organizations",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Siapkan & lapor pajak bulanan · 2026-08",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/admin-orgs_5_ajukan-hasil.png"
+  },
+  {
+   "page": "admin-master",
+   "path": "/admin/master-data",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Verifikasi & posting penerimaan kas",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/admin-master_1_ajukan-hasil.png"
+  },
+  {
+   "page": "admin-master",
+   "path": "/admin/master-data",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Bayar termin subkon setelah QC lolos",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/admin-master_2_ajukan-hasil.png"
+  },
+  {
+   "page": "admin-master",
+   "path": "/admin/master-data",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Rilis retensi yang jatuh tempo · 2026-08",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/admin-master_3_ajukan-hasil.png"
+  },
+  {
+   "page": "admin-master",
+   "path": "/admin/master-data",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Posting jurnal penyusutan bulanan · 2026-08",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/admin-master_4_ajukan-hasil.png"
+  },
+  {
+   "page": "admin-master",
+   "path": "/admin/master-data",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Siapkan & lapor pajak bulanan · 2026-08",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/admin-master_5_ajukan-hasil.png"
+  },
+  {
+   "page": "admin-audit",
+   "path": "/admin/audit",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Verifikasi & posting penerimaan kas",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/admin-audit_1_ajukan-hasil.png"
+  },
+  {
+   "page": "admin-audit",
+   "path": "/admin/audit",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Bayar termin subkon setelah QC lolos",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/admin-audit_2_ajukan-hasil.png"
+  },
+  {
+   "page": "admin-audit",
+   "path": "/admin/audit",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Rilis retensi yang jatuh tempo · 2026-08",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/admin-audit_3_ajukan-hasil.png"
+  },
+  {
+   "page": "admin-audit",
+   "path": "/admin/audit",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Posting jurnal penyusutan bulanan · 2026-08",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/admin-audit_4_ajukan-hasil.png"
+  },
+  {
+   "page": "admin-audit",
+   "path": "/admin/audit",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Siapkan & lapor pajak bulanan · 2026-08",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/finance/admin-audit_5_ajukan-hasil.png"
+  }
+ ],
+ "pages_scanned": 35
+}

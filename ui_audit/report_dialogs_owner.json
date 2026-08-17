@@ -1,0 +1,636 @@
+{
+ "role": "owner",
+ "base": "https://sipro-form-fix.preview.emergentagent.com",
+ "dialogs": [
+  {
+   "page": "beranda",
+   "path": "/",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Baca laporan mingguan 2026-W33 — Cluster Asri Blok A",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/beranda_1_ajukan-hasil.png"
+  },
+  {
+   "page": "tugas",
+   "path": "/tasks",
+   "trigger": "tugas baru",
+   "testid": "work-create-task",
+   "title": "Tugas Baru",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 150,
+    "bottom": 750,
+    "h": 600,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/tugas_1_tugas-baru.png"
+  },
+  {
+   "page": "tugas",
+   "path": "/tasks",
+   "trigger": "ajukan hasil",
+   "testid": "task-submit-button",
+   "title": "Baca laporan mingguan 2026-W33 — Cluster Asri Blok A",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/tugas_2_ajukan-hasil.png"
+  },
+  {
+   "page": "lead",
+   "path": "/leads",
+   "trigger": "tambah lead",
+   "testid": "lead-add-button",
+   "title": "Tambah Lead",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 201,
+    "bottom": 699,
+    "h": 498,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/lead_1_tambah-lead.png"
+  },
+  {
+   "page": "automasi",
+   "path": "/automation",
+   "trigger": "tambah rule",
+   "testid": "omni-rule-add",
+   "title": "Tambah Rule",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 178,
+    "bottom": 722,
+    "h": 544,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/automasi_1_tambah-rule.png"
+  },
+  {
+   "page": "customer",
+   "path": "/customers",
+   "trigger": "tambah customer",
+   "testid": "customer-add-button",
+   "title": "Tambah Customer",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 68,
+    "bottom": 833,
+    "h": 765,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/customer_1_tambah-customer.png"
+  },
+  {
+   "page": "dokumen",
+   "path": "/documents",
+   "trigger": "buat spr",
+   "testid": "",
+   "title": "Buat SPR",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 326,
+    "bottom": 574,
+    "h": 248,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/dokumen_1_buat-spr.png"
+  },
+  {
+   "page": "proyek",
+   "path": "/projects",
+   "trigger": "proyek baru",
+   "testid": "project-add-button",
+   "title": "Proyek Baru",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 254,
+    "bottom": 646,
+    "h": 392,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/proyek_1_proyek-baru.png"
+  },
+  {
+   "page": "konstruksi",
+   "path": "/construction",
+   "trigger": "geser jadwal",
+   "testid": "build-shift-button",
+   "title": "Geser jadwal serentak",
+   "dialog_bg": "rgb(255, 255, 255)",
+   "rect": {
+    "top": 200,
+    "bottom": 700,
+    "h": 500,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/konstruksi_1_geser-jadwal.png"
+  },
+  {
+   "page": "konstruksi",
+   "path": "/construction",
+   "trigger": "jadwalkan sekaligus",
+   "testid": "build-bulk-button-banner",
+   "title": "Jadwal massal per blok/cluster",
+   "dialog_bg": "rgb(255, 255, 255)",
+   "rect": {
+    "top": 171,
+    "bottom": 729,
+    "h": 558,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/konstruksi_2_jadwalkan-sekaligu.png"
+  },
+  {
+   "page": "kalender",
+   "path": "/build-calendar",
+   "trigger": "geser jadwal",
+   "testid": "calendar-shift-button",
+   "title": "Geser jadwal serentak",
+   "dialog_bg": "rgb(255, 255, 255)",
+   "rect": {
+    "top": 200,
+    "bottom": 700,
+    "h": 500,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/kalender_1_geser-jadwal.png"
+  },
+  {
+   "page": "kalender",
+   "path": "/build-calendar",
+   "trigger": "geser jadwal",
+   "testid": "calendar-conflict-shift",
+   "title": "Geser jadwal serentak",
+   "dialog_bg": "rgb(255, 255, 255)",
+   "rect": {
+    "top": 200,
+    "bottom": 700,
+    "h": 500,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/kalender_2_geser-jadwal.png"
+  },
+  {
+   "page": "kalender",
+   "path": "/build-calendar",
+   "trigger": "geser jadwal",
+   "testid": "calendar-conflict-shift",
+   "title": "Geser jadwal serentak",
+   "dialog_bg": "rgb(255, 255, 255)",
+   "rect": {
+    "top": 200,
+    "bottom": 700,
+    "h": 500,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/kalender_3_geser-jadwal.png"
+  },
+  {
+   "page": "kalender",
+   "path": "/build-calendar",
+   "trigger": "geser jadwal",
+   "testid": "calendar-conflict-shift",
+   "title": "Geser jadwal serentak",
+   "dialog_bg": "rgb(255, 255, 255)",
+   "rect": {
+    "top": 200,
+    "bottom": 700,
+    "h": 500,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/kalender_4_geser-jadwal.png"
+  },
+  {
+   "page": "kalibrasi",
+   "path": "/build-calibration",
+   "trigger": "kalibrasi",
+   "testid": "calibration-template-calibrate",
+   "title": "2 Agustus 2026\nLibur mingguan",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/kalibrasi_1_kalibrasi.png"
+  },
+  {
+   "page": "kalibrasi",
+   "path": "/build-calibration",
+   "trigger": "kalibrasi",
+   "testid": "calibration-template-calibrate",
+   "title": "3 Agustus 2026\nHari kerja penuh",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/kalibrasi_2_kalibrasi.png"
+  },
+  {
+   "page": "kalibrasi",
+   "path": "/build-calibration",
+   "trigger": "kalibrasi",
+   "testid": "calibration-template-calibrate",
+   "title": "4 Agustus 2026\nHari kerja penuh",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/kalibrasi_3_kalibrasi.png"
+  },
+  {
+   "page": "kalibrasi",
+   "path": "/build-calibration",
+   "trigger": "kalibrasi",
+   "testid": "calibration-template-calibrate",
+   "title": "5 Agustus 2026\nHari kerja penuh",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/kalibrasi_4_kalibrasi.png"
+  },
+  {
+   "page": "kalibrasi",
+   "path": "/build-calibration",
+   "trigger": "kalibrasi",
+   "testid": "calibration-template-calibrate",
+   "title": "6 Agustus 2026\nHari kerja penuh",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 0,
+    "bottom": 900,
+    "h": 900,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/kalibrasi_5_kalibrasi.png"
+  },
+  {
+   "page": "material",
+   "path": "/materials",
+   "trigger": "ubah",
+   "testid": "material-edit-btn",
+   "title": "Ubah Material BSI",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 295,
+    "bottom": 605,
+    "h": 310,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/material_1_ubah.png"
+  },
+  {
+   "page": "material",
+   "path": "/materials",
+   "trigger": "ubah",
+   "testid": "material-edit-btn",
+   "title": "Ubah Material BTA",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 295,
+    "bottom": 605,
+    "h": 310,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/material_2_ubah.png"
+  },
+  {
+   "page": "material",
+   "path": "/materials",
+   "trigger": "ubah",
+   "testid": "material-edit-btn",
+   "title": "Ubah Material PSR",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 295,
+    "bottom": 605,
+    "h": 310,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/material_3_ubah.png"
+  },
+  {
+   "page": "material",
+   "path": "/materials",
+   "trigger": "ubah",
+   "testid": "material-edit-btn",
+   "title": "Ubah Material SMN",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 295,
+    "bottom": 605,
+    "h": 310,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/material_4_ubah.png"
+  },
+  {
+   "page": "perizinan",
+   "path": "/permits",
+   "trigger": "tambah izin",
+   "testid": "permit-add-button",
+   "title": "Tambah Perizinan",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 160,
+    "bottom": 740,
+    "h": 580,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/perizinan_1_tambah-izin.png"
+  },
+  {
+   "page": "lapangan",
+   "path": "/field",
+   "trigger": "tambah catatan",
+   "testid": "diary-add-button",
+   "title": "Tambah Buku Harian",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 68,
+    "bottom": 833,
+    "h": 765,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/lapangan_1_tambah-catatan.png"
+  },
+  {
+   "page": "boq",
+   "path": "/boq",
+   "trigger": "tambah item",
+   "testid": "boq-add-button",
+   "title": "Tambah Item RAB",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 183,
+    "bottom": 717,
+    "h": 534,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/boq_1_tambah-item.png"
+  },
+  {
+   "page": "subkon",
+   "path": "/subcon",
+   "trigger": "tambah subkontraktor",
+   "testid": "subcontractor-add-button",
+   "title": "Tambah Subkontraktor",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 160,
+    "bottom": 740,
+    "h": 580,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/subkon_1_tambah-subkontrakt.png"
+  },
+  {
+   "page": "pengadaan",
+   "path": "/procurement",
+   "trigger": "buat po",
+   "testid": "po-add-button",
+   "title": "Buat Purchase Order",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 184,
+    "bottom": 716,
+    "h": 532,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/pengadaan_1_buat-po.png"
+  },
+  {
+   "page": "kasbon",
+   "path": "/petty-cash",
+   "trigger": "ajukan kas bon",
+   "testid": "petty-cash-request-button",
+   "title": "Ajukan Kas Bon",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 197,
+    "bottom": 703,
+    "h": 506,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/kasbon_1_ajukan-kas-bon.png"
+  },
+  {
+   "page": "aset",
+   "path": "/fixed-assets",
+   "trigger": "tambah aset",
+   "testid": "asset-add-button",
+   "title": "Tambah Aset Tetap",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 20,
+    "bottom": 880,
+    "h": 860,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/aset_1_tambah-aset.png"
+  },
+  {
+   "page": "marketing-fee",
+   "path": "/marketing-fee",
+   "trigger": "ajukan fee",
+   "testid": "mfee-submit-button",
+   "title": "Ajukan Marketing Fee",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 105,
+    "bottom": 796,
+    "h": 691,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/marketing-fee_1_ajukan-fee.png"
+  },
+  {
+   "page": "marketing-fee",
+   "path": "/marketing-fee",
+   "trigger": "bayar",
+   "testid": "mfee-pay-button",
+   "title": "Bayar Marketing Fee MF/2026/0001",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 287,
+    "bottom": 613,
+    "h": 326,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/marketing-fee_2_bayar.png"
+  },
+  {
+   "page": "admin-users",
+   "path": "/admin/users",
+   "trigger": "tambah pengguna",
+   "testid": "",
+   "title": "Tambah Pengguna",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 232,
+    "bottom": 668,
+    "h": 436,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/admin-users_1_tambah-pengguna.png"
+  },
+  {
+   "page": "admin-master",
+   "path": "/admin/master-data",
+   "trigger": "tambah template",
+   "testid": "master-doc-add-btn",
+   "title": "Tambah Template Dokumen",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 194,
+    "bottom": 706,
+    "h": 512,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/admin-master_1_tambah-template.png"
+  },
+  {
+   "page": "admin-master",
+   "path": "/admin/master-data",
+   "trigger": "ubah",
+   "testid": "master-doc-edit-btn",
+   "title": "Ubah Template Dokumen",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 194,
+    "bottom": 706,
+    "h": 512,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/admin-master_2_ubah.png"
+  },
+  {
+   "page": "admin-master",
+   "path": "/admin/master-data",
+   "trigger": "ubah",
+   "testid": "master-doc-edit-btn",
+   "title": "Ubah Template Dokumen",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 194,
+    "bottom": 706,
+    "h": 512,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/admin-master_3_ubah.png"
+  },
+  {
+   "page": "admin-master",
+   "path": "/admin/master-data",
+   "trigger": "ubah",
+   "testid": "master-doc-edit-btn",
+   "title": "Ubah Template Dokumen",
+   "dialog_bg": "rgb(252, 250, 248)",
+   "rect": {
+    "top": 194,
+    "bottom": 706,
+    "h": 512,
+    "vh": 900
+   },
+   "findings": [],
+   "console_errors": [],
+   "shot": "/app/ui_audit/dialogs/owner/admin-master_4_ubah.png"
+  }
+ ],
+ "pages_scanned": 35
+}

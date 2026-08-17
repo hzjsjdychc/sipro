@@ -1,0 +1,742 @@
+{
+ "role": "sales",
+ "email": "sales@sipro.co.id",
+ "base": "https://sipro-form-fix.preview.emergentagent.com",
+ "pages": [
+  {
+   "name": "beranda",
+   "path": "/",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/beranda.png"
+  },
+  {
+   "name": "tugas",
+   "path": "/tasks",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/tasks",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/tugas.png"
+  },
+  {
+   "name": "notifikasi",
+   "path": "/notifications",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/notifications",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/notifikasi.png"
+  },
+  {
+   "name": "lead",
+   "path": "/leads",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/leads",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/lead.png"
+  },
+  {
+   "name": "agenda",
+   "path": "/appointments",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/appointments",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/agenda.png"
+  },
+  {
+   "name": "inbox",
+   "path": "/inbox",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/inbox",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [
+    "Failed to load resource: the server responded with a status of 403 ()"
+   ],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/inbox.png"
+  },
+  {
+   "name": "automasi",
+   "path": "/automation",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/automation",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [
+    "Failed to load resource: the server responded with a status of 403 ()"
+   ],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/automasi.png"
+  },
+  {
+   "name": "deal",
+   "path": "/deals",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/deals",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/deal.png"
+  },
+  {
+   "name": "siteplan",
+   "path": "/site-plan",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/site-plan",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/siteplan.png"
+  },
+  {
+   "name": "customer",
+   "path": "/customers",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/customers",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/customer.png"
+  },
+  {
+   "name": "dokumen",
+   "path": "/documents",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/documents",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": true,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/dokumen.png"
+  },
+  {
+   "name": "proyek",
+   "path": "/projects",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/projects",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/proyek.png"
+  },
+  {
+   "name": "konstruksi",
+   "path": "/construction",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/construction",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [
+    "Failed to load resource: the server responded with a status of 403 ()"
+   ],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/konstruksi.png"
+  },
+  {
+   "name": "kalender",
+   "path": "/build-calendar",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/build-calendar?scope=project&project_id=d67fdc50-7d64-4425-9451-b38942881441",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [
+    "Failed to load resource: the server responded with a status of 403 ()"
+   ],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/kalender.png"
+  },
+  {
+   "name": "kalibrasi",
+   "path": "/build-calibration",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/build-calibration",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [
+    "Failed to load resource: the server responded with a status of 403 ()"
+   ],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/kalibrasi.png"
+  },
+  {
+   "name": "material",
+   "path": "/materials",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/materials",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [
+    "Failed to load resource: the server responded with a status of 403 ()"
+   ],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/material.png"
+  },
+  {
+   "name": "perizinan",
+   "path": "/permits",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/permits",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [
+    "Failed to load resource: the server responded with a status of 403 ()"
+   ],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/perizinan.png"
+  },
+  {
+   "name": "lapangan",
+   "path": "/field",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/field",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [
+    "Failed to load resource: the server responded with a status of 403 ()"
+   ],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/lapangan.png"
+  },
+  {
+   "name": "boq",
+   "path": "/boq",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/boq",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [
+    "Failed to load resource: the server responded with a status of 403 ()"
+   ],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/boq.png"
+  },
+  {
+   "name": "subkon",
+   "path": "/subcon",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/subcon",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [
+    "Failed to load resource: the server responded with a status of 403 ()"
+   ],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/subkon.png"
+  },
+  {
+   "name": "pengadaan",
+   "path": "/procurement",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/procurement",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [
+    "Failed to load resource: the server responded with a status of 403 ()"
+   ],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/pengadaan.png"
+  },
+  {
+   "name": "akuntansi",
+   "path": "/accounting",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/accounting",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [
+    "Failed to load resource: the server responded with a status of 403 ()"
+   ],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/akuntansi.png"
+  },
+  {
+   "name": "laporan-akuntansi",
+   "path": "/accounting/reports",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/accounting/reports",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [
+    "Failed to load resource: the server responded with a status of 403 ()"
+   ],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/laporan-akuntansi.png"
+  },
+  {
+   "name": "pajak",
+   "path": "/tax",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/tax",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [
+    "Failed to load resource: the server responded with a status of 403 ()"
+   ],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/pajak.png"
+  },
+  {
+   "name": "keuangan",
+   "path": "/finance",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/finance",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [
+    "Failed to load resource: the server responded with a status of 403 ()"
+   ],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/keuangan.png"
+  },
+  {
+   "name": "kasbon",
+   "path": "/petty-cash",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/petty-cash",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/kasbon.png"
+  },
+  {
+   "name": "aset",
+   "path": "/fixed-assets",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/fixed-assets",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [
+    "Failed to load resource: the server responded with a status of 403 ()"
+   ],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/aset.png"
+  },
+  {
+   "name": "pembiayaan",
+   "path": "/corporate-financing",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/corporate-financing",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [
+    "Failed to load resource: the server responded with a status of 403 ()"
+   ],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/pembiayaan.png"
+  },
+  {
+   "name": "marketing-fee",
+   "path": "/marketing-fee",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/marketing-fee",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/marketing-fee.png"
+  },
+  {
+   "name": "komplain",
+   "path": "/complaints",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/complaints",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/komplain.png"
+  },
+  {
+   "name": "admin-users",
+   "path": "/admin/users",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/admin-users.png"
+  },
+  {
+   "name": "admin-permissions",
+   "path": "/admin/permissions",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/admin-permissions.png"
+  },
+  {
+   "name": "admin-orgs",
+   "path": "/admin/organizations",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/admin-orgs.png"
+  },
+  {
+   "name": "admin-master",
+   "path": "/admin/master-data",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/admin-master.png"
+  },
+  {
+   "name": "admin-audit",
+   "path": "/admin/audit",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/sales/admin-audit.png"
+  }
+ ],
+ "login_url": "https://sipro-form-fix.preview.emergentagent.com/"
+}

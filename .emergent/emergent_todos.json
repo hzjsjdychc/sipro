@@ -1,0 +1,38 @@
+[
+  {
+    "content": "Phase 0: Restore env from repo + verify baseline 23 gates PASS",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 1 POC: single script proving stage-clock (Fase 41) + partner fee rule engine & event auto-fee (Fase 42) — 88/88 PASS",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 2a: Fase 41 backend — wire stage clock into 8 list routers, sla filter/sort, aging router (policy/report/reconcile), settings resync hook, scheduler tick, stamps at transition doors",
+    "status": "in_progress"
+  },
+  {
+    "content": "Phase 2c: Fase 42 backend — /api/partners (on agents), fee rules CRUD, preview, analytics, conflicts, lead attribution, RBAC resources",
+    "status": "pending"
+  },
+  {
+    "content": "Phase 2b: Fase 41 frontend — AgingCell/SLA from server (remove hardcoded slaHours), SLA filters, aging report surface",
+    "status": "pending"
+  },
+  {
+    "content": "Phase 2d: Fase 42 frontend — /partners hub + partner profile + unlock menu, Marketing Fee as tab, keep /marketing-fee alias",
+    "status": "pending"
+  },
+  {
+    "content": "Phase 3: New gates verify_41.py + verify_partner.py + mutation tests, register in run_all_gates.sh, full suite PASS",
+    "status": "pending"
+  },
+  {
+    "content": "Phase 3: End-to-end multi-role testing via testing_agent_v3 + fix all findings",
+    "status": "pending"
+  },
+  {
+    "content": "Phase 3: Update plan.md, test_result.md, docs (peta nav + spec status)",
+    "status": "pending"
+  }
+]

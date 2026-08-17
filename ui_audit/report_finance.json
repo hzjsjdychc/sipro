@@ -1,0 +1,772 @@
+{
+ "role": "finance",
+ "email": "finance@sipro.co.id",
+ "base": "https://sipro-form-fix.preview.emergentagent.com",
+ "pages": [
+  {
+   "name": "beranda",
+   "path": "/",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/beranda.png"
+  },
+  {
+   "name": "tugas",
+   "path": "/tasks",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/tasks",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/tugas.png"
+  },
+  {
+   "name": "notifikasi",
+   "path": "/notifications",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/notifications",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/notifikasi.png"
+  },
+  {
+   "name": "lead",
+   "path": "/leads",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/leads",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/lead.png"
+  },
+  {
+   "name": "agenda",
+   "path": "/appointments",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/appointments",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [
+    "Failed to load resource: the server responded with a status of 403 ()"
+   ],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/agenda.png"
+  },
+  {
+   "name": "inbox",
+   "path": "/inbox",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/inbox",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [
+    "Failed to load resource: the server responded with a status of 403 ()"
+   ],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/inbox.png"
+  },
+  {
+   "name": "automasi",
+   "path": "/automation",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/automation",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [
+    "Failed to load resource: the server responded with a status of 403 ()"
+   ],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/automasi.png"
+  },
+  {
+   "name": "deal",
+   "path": "/deals",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/deals",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/deal.png"
+  },
+  {
+   "name": "siteplan",
+   "path": "/site-plan",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/site-plan",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/siteplan.png"
+  },
+  {
+   "name": "customer",
+   "path": "/customers",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/customers",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/customer.png"
+  },
+  {
+   "name": "dokumen",
+   "path": "/documents",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/documents",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": true,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/dokumen.png"
+  },
+  {
+   "name": "proyek",
+   "path": "/projects",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/projects",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/proyek.png"
+  },
+  {
+   "name": "konstruksi",
+   "path": "/construction",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/construction",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/konstruksi.png"
+  },
+  {
+   "name": "kalender",
+   "path": "/build-calendar",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/build-calendar?scope=project&project_id=d67fdc50-7d64-4425-9451-b38942881441&month=2026-08",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/kalender.png"
+  },
+  {
+   "name": "kalibrasi",
+   "path": "/build-calibration",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/build-calibration",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [
+    {
+     "cls": "overflow-x-auto rounded-lg border",
+     "w": 698,
+     "h": 1826,
+     "text": "Mg Langkah Rencana Durasi Waktu tunggu Bobot Bukti telat Kal"
+    }
+   ],
+   "broken_count": 1,
+   "text_overflow": [
+    {
+     "text": "RUMAH-9W — Rumah Tapak 1 Lantai — 9 Ming",
+     "tag": "SPAN",
+     "cls": "",
+     "need": 458,
+     "have": 346,
+     "clipped": true
+    }
+   ],
+   "text_overflow_count": 1,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/kalibrasi.png"
+  },
+  {
+   "name": "material",
+   "path": "/materials",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/materials",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": true,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/material.png"
+  },
+  {
+   "name": "perizinan",
+   "path": "/permits",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/permits",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/perizinan.png"
+  },
+  {
+   "name": "lapangan",
+   "path": "/field",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/field",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/lapangan.png"
+  },
+  {
+   "name": "boq",
+   "path": "/boq",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/boq",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": true,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/boq.png"
+  },
+  {
+   "name": "subkon",
+   "path": "/subcon",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/subcon",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/subkon.png"
+  },
+  {
+   "name": "pengadaan",
+   "path": "/procurement",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/procurement",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/pengadaan.png"
+  },
+  {
+   "name": "akuntansi",
+   "path": "/accounting",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/accounting",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/akuntansi.png"
+  },
+  {
+   "name": "laporan-akuntansi",
+   "path": "/accounting/reports",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/accounting/reports",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/laporan-akuntansi.png"
+  },
+  {
+   "name": "pajak",
+   "path": "/tax",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/tax",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/pajak.png"
+  },
+  {
+   "name": "keuangan",
+   "path": "/finance",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/finance",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/keuangan.png"
+  },
+  {
+   "name": "kasbon",
+   "path": "/petty-cash",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/petty-cash",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [
+    {
+     "text": "Konsumsi open house & transport tim pema",
+     "tag": "P",
+     "cls": "truncate",
+     "need": 325,
+     "have": 244,
+     "clipped": true
+    },
+    {
+     "text": "Retribusi & material kecil pekerjaan dra",
+     "tag": "P",
+     "cls": "truncate",
+     "need": 338,
+     "have": 244,
+     "clipped": true
+    }
+   ],
+   "text_overflow_count": 2,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/kasbon.png"
+  },
+  {
+   "name": "aset",
+   "path": "/fixed-assets",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/fixed-assets",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [
+    {
+     "text": "Toyota Avanza operasional pemasaran",
+     "tag": "P",
+     "cls": "truncate",
+     "need": 255,
+     "have": 224,
+     "clipped": true
+    },
+    {
+     "text": "Laptop & workstation tim desain (5 unit)",
+     "tag": "P",
+     "cls": "truncate",
+     "need": 263,
+     "have": 224,
+     "clipped": true
+    },
+    {
+     "text": "Bangunan kantor pemasaran & showroom",
+     "tag": "P",
+     "cls": "truncate",
+     "need": 276,
+     "have": 224,
+     "clipped": true
+    }
+   ],
+   "text_overflow_count": 3,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/aset.png"
+  },
+  {
+   "name": "pembiayaan",
+   "path": "/corporate-financing",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/corporate-financing",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/pembiayaan.png"
+  },
+  {
+   "name": "marketing-fee",
+   "path": "/marketing-fee",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/marketing-fee",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/marketing-fee.png"
+  },
+  {
+   "name": "komplain",
+   "path": "/complaints",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/complaints",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/komplain.png"
+  },
+  {
+   "name": "admin-users",
+   "path": "/admin/users",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/admin-users.png"
+  },
+  {
+   "name": "admin-permissions",
+   "path": "/admin/permissions",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/admin-permissions.png"
+  },
+  {
+   "name": "admin-orgs",
+   "path": "/admin/organizations",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/admin-orgs.png"
+  },
+  {
+   "name": "admin-master",
+   "path": "/admin/master-data",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/admin-master.png"
+  },
+  {
+   "name": "admin-audit",
+   "path": "/admin/audit",
+   "url": "https://sipro-form-fix.preview.emergentagent.com/",
+   "fonts": {
+    "space": true,
+    "inter": true,
+    "mono": false,
+    "headingFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "bodyFamily": "Inter, ui-sans-serif, system-ui, sans-serif"
+   },
+   "overflow": false,
+   "broken_cards": [],
+   "broken_count": 0,
+   "text_overflow": [],
+   "text_overflow_count": 0,
+   "console_errors": [],
+   "failed_requests": [],
+   "shot": "/app/ui_audit/finance/admin-audit.png"
+  }
+ ],
+ "login_url": "https://sipro-form-fix.preview.emergentagent.com/"
+}
